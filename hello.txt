@@ -1,2 +1,2 @@
-Hello from master!
+Hello from conflict branch!
 This is an update!
