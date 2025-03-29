@@ -1,2 +1,0 @@
-Hello from feature-1!
-This is an update!
